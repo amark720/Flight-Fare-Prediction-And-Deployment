@@ -8,8 +8,11 @@ The objective of this project is to calculate the fare of a flight journey based
 Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
 
 ## ScreenShots:
-[![](https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Flight-Fare1.PNG)](https://flight-fare-prediction-by-amar.herokuapp.com/)
 
-[![](https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Flight-Fare2.PNG)](https://flight-fare-prediction-by-amar.herokuapp.com/)
+### Landing Page-
+<a href="https://flight-fare-prediction-by-amar.herokuapp.com" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Flight-Fare1.PNG" width=80% height=60% > </a>
+
+### Result-
+<a href="https://flight-fare-prediction-by-amar.herokuapp.com" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Flight-Fare2.PNG" width=80% height=60% > </a>
 
 
