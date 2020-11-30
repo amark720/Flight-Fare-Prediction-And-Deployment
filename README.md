@@ -9,10 +9,10 @@ The objective of this project is to calculate the fare of a flight journey based
 ## ScreenShots:
 
 ### Landing Page-
-<a href="https://flight-fare-prediction-by-amar.herokuapp.com" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Flight-Fare1.PNG" width=85% height=50% > </a>
+<a href="https://flight-fare-prediction-by-amar.herokuapp.com" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Flight-Fare1.PNG" width=100% height=50% > </a>
 
 ### Result-
-<a href="https://flight-fare-prediction-by-amar.herokuapp.com" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Flight-Fare2.PNG" width=85% height=50% > </a>
+<a href="https://flight-fare-prediction-by-amar.herokuapp.com" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Flight-Fare2.PNG" width=100% height=50% > </a>
 
 
 ## Dataset
