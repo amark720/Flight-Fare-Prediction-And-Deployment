@@ -2,7 +2,7 @@
 
 The objective of this project is to calculate the fare of a flight journey based on various parameters such as source,destination,no. of stops, Airlines Company etc. It's Basically a Flask web app which predicts fare of Flight ticket.
 
-
+<br>
 <a href="https://flight-fare-prediction-by-amar.herokuapp.com" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Flight-Fare-Banner.jpg" width=60% height=40% > </a>
 
 
